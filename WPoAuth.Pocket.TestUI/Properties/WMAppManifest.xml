@@ -4,7 +4,7 @@
   <Languages xmlns="">
     <Language code="en" />
   </Languages>
-  <App xmlns="" ProductID="{92686944-4ad3-4e3a-b717-3a4649641b9f}" Title="Pock3t" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Steven Livingstone-Perez" Description="A Pocket client for Windows Phone." Publisher="Paramount Technology Ventures Limited" PublisherID="{27837d82-fe24-4e8a-8d68-0f0024312028}">
+  <App xmlns="" ProductID="{92686944-4ad3-4e3a-b717-3a4649641b9f}" Title="Paramount Pock3t" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="Steven Livingstone-Perez" Description="A Pocket client for Windows Phone." Publisher="Paramount Technology Ventures Limited" PublisherID="{27837d82-fe24-4e8a-8d68-0f0024312028}">
     <IconPath IsRelative="true" IsResource="false">Assets\ApplicationIcon.png</IconPath>
     <Capabilities>
       <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
@@ -19,7 +19,7 @@
           <SmallImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileSmall.png</SmallImageURI>
           <Count>0</Count>
           <BackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\FlipCycleTileMedium.png</BackgroundImageURI>
-          <Title>Pock3t</Title>
+          <Title>Paramount Pock3t</Title>
           <BackContent>
           </BackContent>
           <BackBackgroundImageURI>

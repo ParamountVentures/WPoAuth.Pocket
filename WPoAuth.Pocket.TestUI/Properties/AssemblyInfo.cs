@@ -6,12 +6,12 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pock3t")]
-[assembly: AssemblyDescription("Pock3t")]
+[assembly: AssemblyTitle("Paramount Pock3t")]
+[assembly: AssemblyDescription("Paramount Pock3t")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Paramount Technology Ventures Limited")]
-[assembly: AssemblyProduct("Pock3t")]
-[assembly: AssemblyCopyright("Copyright ©  2014")]
+[assembly: AssemblyProduct("Paramount Pock3t")]
+[assembly: AssemblyCopyright("Paramount Pock3t")]
 [assembly: AssemblyTrademark("Pocket for Windows Phone")]
 [assembly: AssemblyCulture("")]
 
