@@ -56,7 +56,7 @@ namespace WPoAuth.Pocket.TestUI
                 // change UI here
                 WebBrowser.Visibility = System.Windows.Visibility.Visible;
                 WebBrowser.Navigated += WebBrowser_Navigated;
-                WebBrowser.Navigate(new Uri(AuthorizationWebUrl.Text + String.Format("?request_token={0}&redirect_uri={1}", e.token, this.RedirectURI.Text)));
+                WebBrowser.Navigate(new Uri(AuthorizationWebUrl.Text + String.Format("?request_token={0}&redirect_uri={1}&mobile=1", e.token, this.RedirectURI.Text)));
             });
         }
 
